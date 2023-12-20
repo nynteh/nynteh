@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nynteh.
+- 👀 I’m interested in Software Engineering.
+- 🌱 I’m currently learning Three.js.
+- 💞️ I’m looking to collaborate on React Projects.
+- 📫 How to reach me: nynteh@gmail.com
